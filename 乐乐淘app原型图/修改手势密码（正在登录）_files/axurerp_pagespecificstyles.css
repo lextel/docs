@@ -1,0 +1,519 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:480px;
+    height:800px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:486px;
+    height:806px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:11px;
+    top:11px;
+    width:479px;
+    height:35px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:479px;
+    height:35px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:475px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:10px;
+    top:45px;
+    width:480px;
+    height:70px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:486px;
+    height:76px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:201px;
+    top:64px;
+    width:108px;
+    height:31px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:19px;
+    top:60px;
+    width:60px;
+    height:40px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 18px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u7_text_sketch {
+    font-family: '微软雅黑';
+}
+
+.u8_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:19px;
+    top:140px;
+    width:458px;
+    height:60px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:464px;
+    height:66px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:454px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:30px;
+    top:158px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:447px;
+    top:155px;
+    width:30px;
+    height:30px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:19px;
+    top:210px;
+    width:458px;
+    height:120px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:464px;
+    height:126px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:454px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:30px;
+    top:229px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_line {
+    background-image: url('../修改手势密码（正在登录）_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:458px;
+    height:3px;
+}
+
+.u16 {
+    position:absolute;
+    left:19px;
+    top:264px;
+    width:458px;
+    height:10px;
+    
+}
+
+.u17 {
+    position:absolute;
+    left:30px;
+    top:288px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u11_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:447px;
+    top:286px;
+    width:30px;
+    height:30px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u20 {
+    position:absolute;
+    left:385px;
+    top:226px;
+    width:85px;
+    height:35px
+}
+
+.u21_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:30px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:36px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:36px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:40px;
+    top:0px;
+    width:40px;
+    height:30px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:36px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:36px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:126px;
+    top:340px;
+    width:220px;
+    height:120px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:126px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../修改手势密码（正在登录）_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:160px;
+    top:371px;
+    width:58px;
+    height:58px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:58px;
+    height:58px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:234px;
+    top:392px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

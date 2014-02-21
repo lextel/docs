@@ -1,0 +1,7 @@
+﻿for(var i = 0; i < 94; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+
+$axure.eventManager.pageLoad(
+function (e) {
+
+});
+gv_vAlignTable['u21'] = 'top';gv_vAlignTable['u46'] = 'center';gv_vAlignTable['u77'] = 'center';gv_vAlignTable['u93'] = 'center';gv_vAlignTable['u38'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u53'] = 'top';gv_vAlignTable['u87'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u27'] = 'center';gv_vAlignTable['u66'] = 'top';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u60'] = 'top';gv_vAlignTable['u89'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u17'] = 'top';gv_vAlignTable['u64'] = 'top';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u79'] = 'center';gv_vAlignTable['u81'] = 'center';gv_vAlignTable['u85'] = 'center';gv_vAlignTable['u11'] = 'top';gv_vAlignTable['u71'] = 'center';gv_vAlignTable['u15'] = 'top';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u58'] = 'top';gv_vAlignTable['u83'] = 'center';gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u68'] = 'top';gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u24'] = 'center';gv_vAlignTable['u6'] = 'top';gv_vAlignTable['u91'] = 'center';gv_vAlignTable['u56'] = 'top';gv_vAlignTable['u5'] = 'center';gv_vAlignTable['u9'] = 'top';gv_vAlignTable['u42'] = 'center';gv_vAlignTable['u48'] = 'center';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u44'] = 'center';gv_vAlignTable['u74'] = 'center';
